@@ -1,7 +1,7 @@
 # hello-world
 Annother repositry floating around
 
-Hi Inhabitants of earth
+Hi inhabitants of earth
 
 I hail from the land of java.
 I am just a privitave being, yet I am my makers first creation so I know I have a special place in their heart
